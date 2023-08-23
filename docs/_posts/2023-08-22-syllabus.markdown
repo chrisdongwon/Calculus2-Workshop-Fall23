@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Workshop Syllabus"
+date:   2023-08-22 14:21:27 -0700
+categories: course update
+---
+
+<object data="https://chrisdongwon.github.io/Calculus2-Workshop-Fall23/Calc_2_workshop_syllabus.pdf" width="1000" height="1000" type='application/pdf'></object>
