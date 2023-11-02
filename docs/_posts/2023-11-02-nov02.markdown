@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "November 2"
+date:   2023-11-02 00:00:00 -0700
+categories: notes
+---
+
+<object data="https://chrisdongwon.github.io/Calculus2-Workshop-Fall23/nov02.pdf" width="1000" height="1000" type='application/pdf'></object>
