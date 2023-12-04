@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Zoom Link for December 5 and 7"
+date:   2023-12-04 00:00:00 -0700
+categories: notes
+---
+
+
+<a href="https://calstatela.zoom.us/j/3644413954">Zoom Link</a>
